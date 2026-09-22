@@ -1,0 +1,5 @@
+outs:
+- md5: dd6d1bd8f4bcc4555b900b9c00955c33
+  size: 102000
+  hash: md5
+  path: german.data-numeric
