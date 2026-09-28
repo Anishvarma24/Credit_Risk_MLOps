@@ -36,6 +36,7 @@ jobs:
 
       - name: Run retraining
         run: |
+          mkdir -p models
           python src/retrain.py
 
       - name: Build Docker image
